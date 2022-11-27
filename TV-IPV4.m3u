@@ -2,3 +2,6 @@
 
 #EXTINF:-1 tvg-id="cctv5" tvg-logo="cctv5.png",CCTV-5 体育
 https://pull-l3-cny.douyincdn.com/live/c057ab5b815fec7c78a71d2213f94190.m3u8
+
+#EXTINF:-1 tvg-id="cctv5plus" tvg-logo="cctv5plus.png",CCTV-5+ 体育赛事
+https://pull-l3-cny.douyincdn.com/live/826e630ea9f5982853ea42ef926a6f94.m3u8
