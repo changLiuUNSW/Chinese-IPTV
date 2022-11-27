@@ -16,6 +16,6 @@ guide.xml will be refreshed per hour .
 ### Guide file (EPG):
    * **Github**
       ```
-      https://raw.githubusercontent.com/changLiuUNSW/Chinese-IPTV/master/guide.xml
+      https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/guide.xml
       ```
 
