@@ -13,17 +13,9 @@ guide.xml will be refreshed per hour .
       ```
       https://raw.githubusercontent.com/changLiuUNSW/Chinese-IPTV/master/TV-IPV4.m3u
       ```
-   * **jsDelivr CDN** (optimized for mainland users) 
-      ```
-      https://cdn.jsdelivr.net/gh/changLiuUNSW/Chinese-IPTV@master/TV-IPV4.m3u
-      ```
 ### Guide file (EPG):
    * **Github**
       ```
       https://raw.githubusercontent.com/changLiuUNSW/Chinese-IPTV/master/guide.xml
-      ```
-   * **jsDelivr CDN** (optimized for mainland users) 
-      ```
-      https://cdn.jsdelivr.net/gh/changLiuUNSW/Chinese-IPTV@master/guide.xml
       ```
 
