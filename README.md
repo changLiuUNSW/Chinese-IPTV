@@ -11,20 +11,20 @@ guide.xml will be refreshed per hour .
 ### Channel list:
    * **Github**
       ```
-      https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u
+      https://raw.githubusercontent.com/changLiuUNSW/Chinese-IPTV/master/TV-IPV4.m3u
       ```
    * **jsDelivr CDN** (optimized for mainland users) 
       ```
-      https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/TV-IPV4.m3u
+      https://cdn.jsdelivr.net/gh/changLiuUNSW/Chinese-IPTV@master/TV-IPV4.m3u
       ```
 ### Guide file (EPG):
    * **Github**
       ```
-      https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/guide.xml
+      https://raw.githubusercontent.com/changLiuUNSW/Chinese-IPTV/master/guide.xml
       ```
    * **jsDelivr CDN** (optimized for mainland users) 
       ```
-      https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml
+      https://cdn.jsdelivr.net/gh/changLiuUNSW/Chinese-IPTV@master/guide.xml
       ```
 ## 穷学生党求打赏
    ![1635786625166](https://user-images.githubusercontent.com/30040912/141647179-f4bc6848-96ed-4ada-8bdb-ae84e2de88ec.jpg)
