@@ -1,7 +1,7 @@
 #EXTM3U url-logos="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/"
 
 #EXTINF:-1 tvg-id="cctv5" tvg-logo="cctv5.png",CCTV-5 体育
-https://node3.olelive.com:6443/live/CCTV5HD_1080/hls.m3u8
+https://pull-l3-cny.douyincdn.com/live/cc6ef1241bb57dad3b750829c2d41112.m3u8
 
 #EXTINF:-1 tvg-id="cctv5plus" tvg-logo="cctv5plus.png",CCTV-5+ 体育赛事
 https://api.olelive.com/dis/live/CCTV5PHD_1080/hls.m3u8
