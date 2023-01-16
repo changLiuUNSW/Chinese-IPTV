@@ -1,10 +1,10 @@
 #EXTM3U url-logos="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/"
 
 #EXTINF:-1 tvg-id="cctv5" tvg-logo="cctv5.png",CCTV-5 体育
-https://pull-l3-cny.douyincdn.com/live/de83e90e940e58630e7ecd2680f7ee21.m3u8
+https://pull-l3-cny.douyincdn.com/live/b6a27e52b9f3f7597d8ba0baaf7caccc.m3u8
 
 #EXTINF:-1 tvg-id="cctv5plus" tvg-logo="cctv5plus.png",CCTV-5+ 体育赛事
-https://api.olelive.com/dis/live/CCTV5PHD_1080/hls.m3u8
+https://pull-l3-cny.douyincdn.com/live/6ad713b8bafb87761ec52bee9a6c7850.m3u8
 
 #EXTINF:-1 tvg-id="cctv13" tvg-logo="cctv13.png",CCTV-13 新闻
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
