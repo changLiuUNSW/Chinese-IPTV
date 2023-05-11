@@ -1,16 +1,16 @@
 #EXTM3U url-logos="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/"
 
 #EXTINF:-1 tvg-id="cctv1" tvg-logo="cctv1.png",CCTV-1 综合
-https://pull-l3-cny.douyincdn.com/live/d7bf11f63fd149b70d9354ce9ffe5588.m3u8
+https://pull-l3-cny.douyincdn.com/live/c566cd7a95102ba71769478120ede8d3.m3u8
 
 #EXTINF:-1 tvg-id="cctv5" tvg-logo="cctv5.png",CCTV-5 体育
-https://pull-l3-cny.douyincdn.com/live/e5055a5bd963675fe1229feb53841d62.m3u8
+https://pull-l3-cny.douyincdn.com/live/54a141ff3c4472fc5ec361e0fd054602.m3u8
 
 #EXTINF:-1 tvg-id="cctv5plus" tvg-logo="cctv5plus.png",CCTV-5+ 体育赛事
-https://pull-l3-cny.douyincdn.com/live/2f34aca7280680098f30cab6ec908bd8.m3u8
+https://pull-l3-cny.douyincdn.com/live/f066262822e8dd696b53654a6e6ebb4f.m3u8
 
 #EXTINF:-1 tvg-id="cctv13" tvg-logo="cctv13.png",CCTV-13 新闻
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 
 #EXTINF:-1 tvg-id="phoenixnews" tvg-logo="phoenix.png",凤凰卫视资讯 新闻
-https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
+http://playtimeshift-live.ifeng.com/timeshift/live/06OLEGEGM4G/timeshift.m3u8
