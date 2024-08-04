@@ -4,7 +4,7 @@
 https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 
 #EXTINF:-1 tvg-id="cctv5" tvg-logo="cctv5.png",CCTV-5 体育
-https://t12.iptv200.com/live/cctv5/index.m3u8
+https://t3.iptv200.com/live/cctv5/index.m3u8?session=wj91rzig3ej4ueiu8rvvrtyk1dw2gx9n
 
 #EXTINF:-1 tvg-id="cctv5plus" tvg-logo="cctv5plus.png",CCTV-5+ 体育赛事
 https://la1.hellocenter.xyz/live/1673610526.m3u8
